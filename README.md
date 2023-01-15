@@ -4,6 +4,9 @@
 <p>-Data cleaning</p>
 <p>-Missing Values Imputation</p>
 <p>-Data Pre-processing</p>
-<p>-Removing outliers</p>
+<p>-Removing Outliers</p>
 <p>-Hypotesis Testing</p>
-<p>-Groupby</p>
+<p>-Pivot Tables</p>
+<p>-Pivot Tables</p>
+<p>-Web Scraping</p>
+
