@@ -7,6 +7,5 @@
 <p>-Removing Outliers</p>
 <p>-Hypotesis Testing</p>
 <p>-Pivot Tables</p>
-<p>-Pivot Tables</p>
 <p>-Web Scraping</p>
 
