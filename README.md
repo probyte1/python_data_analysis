@@ -1,12 +1,12 @@
 ## Data Analysis & Data Cleaning with Python Pandas
 
-<p>-Data Analysis</p>
-<p>-Data cleaning</p>
-<p>-Missing Values Imputation</p>
-<p>-Data Pre-processing</p>
-<p>-Removing Outliers</p>
-<p>-Hypotesis Testing</p>
-<p>-Pivot Tables</p>
-<p>-Regex</p>
-<p>:bullet_point: Web Scraping</p>
+<p>:globe_with_meridians: Data Analysis</p>
+<p>:globe_with_meridians: Data cleaning</p>
+<p>:globe_with_meridians: Missing Values Imputation</p>
+<p>:globe_with_meridians: Data Pre-processing</p>
+<p>:globe_with_meridians: Removing Outliers</p>
+<p>:globe_with_meridians: Hypotesis Testing</p>
+<p>:globe_with_meridians: Pivot Tables</p>
+<p>:globe_with_meridians: Regex</p>
+<p>:globe_with_meridians: Web Scraping</p>
 
