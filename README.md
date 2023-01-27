@@ -8,5 +8,5 @@
 <p>-Hypotesis Testing</p>
 <p>-Pivot Tables</p>
 <p>-Regex</p>
-<p>-:heavy_check_mark: Web Scraping</p>
+<p>:bullet_point: Web Scraping</p>
 
